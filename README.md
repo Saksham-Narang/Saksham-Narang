@@ -1,28 +1,51 @@
-<h1 align="center">Hi 👋, I'm Saksham Narang</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hello, World! I'm Saksham Narang
 
-- 🔭 I’m currently working on **Gait Analysis for Biometric Authentication**
 
-- 🌱 I’m currently learning **React.js, Node.js, and Mongodb**
+### 🌟 About Me
+I'm a passionate AI/ML enthusiast and a dedicated software developer with a knack for solving complex problems. With a blend of technical expertise and creative thinking, I aim to make a significant impact in the tech world.
 
-- 💬 Ask me about **HTML, CSS, JS, Java, Python, C, PHP,**
+- 🔭 Currently working on: Gait Analysis for Biometric Authentication at IBM
+- 🌱 Learning and growing: Always exploring new AI/ML techniques and tools
+- 👯 Looking to collaborate on: Innovative AI/ML projects, open-source contributions, and hackathons
+- ⚡ Fun fact: I've been friends with my group for 7 years!
 
-- 📫 How to reach me **saksham13narang@gmail.com**
+### 🛠️ Certifications
+- **Artificial Intelligence Certificate Simulation** by Cognizant
+- **Docker Certification**
+- **Python for Data Science Certification**
+- **MLOps Certification**
+- **Google Cloud Security Skill Boost:**
+  - Vertex AI Studio
+  - Transformer Models and BERT Model
+  - Encoder-Decoder Architecture
+- **Career Essentials:**
+  - Generative AI by Microsoft and LinkedIn
+  - Data Analysis by Microsoft and LinkedIn
+- **Deep Learning Workshop**: From Foundation to Cutting-Edge Techniques by UPES Dehradun
 
-- 📄 Know about my experiences [https://1drv.ms/f/c/e73e16c18baf2d78/EjdO8k_bHlpFmWY1fGVdRqwBXaw7UUlZkCUENCZdUqbYQg?e=qM6Kf8](https://1drv.ms/f/c/e73e16c18baf2d78/EjdO8k_bHlpFmWY1fGVdRqwBXaw7UUlZkCUENCZdUqbYQg?e=qM6Kf8)
+### 💻 Projects
+- **Gait Analysis for Biometric Authentication**: Developing an AI/ML system for biometric authentication based on gait patterns.
+- **Active Vita: Health and Fitness Web Application**: A comprehensive web application focused on health and fitness tracking.
+- **Food Ordering Website**: Creating an intuitive and user-friendly food ordering platform.
+- **Contact Management System**: Building a robust system for managing contacts efficiently.
+- **Barcode Generator**: Developing a tool for generating barcodes for various applications.
+- **Credit Card Generator**: Creating a secure and reliable credit card generator for testing purposes.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saksham_4842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saksham_4842" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saksham-narang-165927249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-narang-165927249" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_sakshamnarang._?igsh=mwdonwe0m2f6cmlmcq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_sakshamnarang._?igsh=mwdonwe0m2f6cmlmcq==" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/saksham13narang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/saksham13narang" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/saksham13narang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saksham13narang/" height="30" width="40" /></a>
-</p>
+### 🚀 Skills
+- **Programming Languages**: Python, JavaScript, SQL
+- **Frameworks and Libraries**: TensorFlow, PyTorch, Scikit-Learn, Docker
+- **Tools**: Git, Jupyter, VS Code, Google Cloud Platform, IBM Watson
+- **Methodologies**: Agile, Waterfall, MLOps
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📫 Connect with Me
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/saksham-narang-165927249)
+- **Email**: [Your Email](mailto:saksham13narang@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-narang&show_icons=true&locale=en&layout=compact" alt="saksham-narang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-narang&show_icons=true&locale=en" alt="saksham-narang" /></p>
+### 🎨 Fun with Code
+```html
+<html>
+  <body>
+    <h1>Welcome to My GitHub Profile!</h1>
+    <p>Here's a fun fact: Did you know that the first computer virus was created in 1983?</p>
+  </body>
+</html>
