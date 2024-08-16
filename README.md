@@ -4,7 +4,7 @@
 ### 🌟 About Me
 I'm a passionate AI/ML enthusiast and a dedicated software developer with a knack for solving complex problems. With a blend of technical expertise and creative thinking, I aim to make a significant impact in the tech world.
 
-- 🔭 Currently working on: Gait Analysis for Biometric Authentication at IBM
+- 🔭 Currently working on: Multi-Model Landslide Prediction System at UPES
 - 🌱 Learning and growing: Always exploring new AI/ML techniques and tools
 - 👯 Looking to collaborate on: Innovative AI/ML projects, open-source contributions, and hackathons
 - ⚡ Fun fact: I've been friends with my group for 7 years!
@@ -24,7 +24,8 @@ I'm a passionate AI/ML enthusiast and a dedicated software developer with a knac
 - **Deep Learning Workshop**: From Foundation to Cutting-Edge Techniques by UPES Dehradun
 
 ### 💻 Projects
-- **Gait Analysis for Biometric Authentication**: Developing an AI/ML system for biometric authentication based on gait patterns.
+- **Multi-Model Landslide Prediction System**: Developing a system that integrates various predictive models to enhance landslide early warning and risk mitigation strategies.
+- **Gait Analysis for Biometric Authentication**: Developed an AI/ML system for biometric authentication based on gait patterns.
 - **Active Vita: Health and Fitness Web Application**: A comprehensive web application focused on health and fitness tracking.
 - **Food Ordering Website**: Creating an intuitive and user-friendly food ordering platform.
 - **Contact Management System**: Building a robust system for managing contacts efficiently.
