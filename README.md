@@ -24,7 +24,7 @@ I'm a passionate AI/ML enthusiast and a dedicated software developer with a knac
 - **Deep Learning Workshop**: From Foundation to Cutting-Edge Techniques by UPES Dehradun
 
 ### 💻 Projects
-- **Multi-Model Landslide Prediction System**: Developing a system that integrates various predictive models to enhance landslide early warning and risk mitigation strategies.
+- **Multi-Model Landslide Prediction System**: Developing an ML system to enhance landslide early warning and risk mitigation strategies.
 - **Gait Analysis for Biometric Authentication**: Developed an AI/ML system for biometric authentication based on gait patterns.
 - **Active Vita: Health and Fitness Web Application**: A comprehensive web application focused on health and fitness tracking.
 - **Food Ordering Website**: Creating an intuitive and user-friendly food ordering platform.
